@@ -1,0 +1,23 @@
+{
+  "name": "notes-node",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://YukioWatanabe@github.com/YukioWatanabe/notes-node.git"
+  },
+  "author": "Yukio Watanabe",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/YukioWatanabe/notes-node/issues"
+  },
+  "homepage": "https://github.com/YukioWatanabe/notes-node#readme",
+  "dependencies": {
+    "lodash": "^4.17.5",
+    "yargs": "^11.0.0"
+  }
+}
